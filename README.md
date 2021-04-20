@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofpaola&layout=compact&theme=tokyonight)](https://github.com/ofpaola/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayaramafioletti&layout=compact&theme=tokyonight)](https://github.com/Mayaramafioletti/github-readme-stats)
